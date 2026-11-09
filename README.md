@@ -17,7 +17,8 @@ Python & Data Science réalisés sur Google Colab.
 | [TD2](td02_enonce.ipynb) | Introduction à GitHub | :white_check_mark: |
 | [TD3](td03_enonce.ipynb) | Les bases de Python | :white_check_mark: |
 | [TD4](td04_enonce.ipynb) | Les fonctions, modules et NumPy | :white_check_mark: |
-
+| [TD5](td05_enonce.ipynb) | Matplotlib, dictionnaires et Pandas| :white_check_mark: |
+| [TD6](td06_enonce.ipynb) | Logique, flux de contrôle et boucles| :white_check_mark: |
 ## Crédits
 
 Cours de M. Guéry — Faculté d'Économie, UPJV
